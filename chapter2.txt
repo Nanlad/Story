@@ -1,1 +1,1 @@
-this is chapter 2 in git lesson
+this is chapter 2 in git therefore you should know it
